@@ -3,6 +3,6 @@
 
 <template>
   <div class="p-4">
-    <h1>Bem-vindo ao Gymmi</h1>
+    <h1>Bem-vindo ao Agymos</h1>
   </div>
 </template>

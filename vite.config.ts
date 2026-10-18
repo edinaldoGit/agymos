@@ -12,8 +12,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png'],
       manifest: {
-        name: 'Gymmi - Workout Tracker',
-        short_name: 'Gymmi',
+        name: 'Agymos - Workout Tracker',
+        short_name: 'Agymos',
         description: 'Organização de treinos e acompanhamento de evolução física.',
         theme_color: '#0f172a',
         background_color: '#0f172a',
